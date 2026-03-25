@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+processed/
+tmp_test/
+
+page1_preview.png
+sz_cell.png
+sz_cell_preprocessed.png
+sz_crop.png
+sz_crop_preprocessed.png
+title_crop.png
+title_crop_preprocessed.png
+title_preview.png
+
+src/test.pdf
+src/processed/
